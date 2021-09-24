@@ -28,7 +28,6 @@ public class SprinCourseApplication
             {
                 System.out.println(beanName);
             }
-
         };
     }
 }
